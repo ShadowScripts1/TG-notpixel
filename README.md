@@ -1,9 +1,9 @@
-# NotPixL
+# TG-notpixel
 
 Auto paint and claim for N*t P*xel
 
 # Table of Contents
-- [NotPixL](#NotPixL)
+- [TG-notpixel](#TG-notpixel)
 - [Table of Contents](#table-of-contents)
 - [Registration](#registration)
 - [Features](#features)
@@ -120,9 +120,9 @@ Here's how to use it on different operating systems:
    git clone https://github.com/ShadowScripts1/TG-notpixel.git
    ```
 
-4. Enter the NotPixL folder
+4. Enter the TG-notpixel folder
    ```shell
-   cd NotPixL
+   cd TG-notpixel
    ```
 
 5. Install required libraries
@@ -163,9 +163,9 @@ Here's how to use it on different operating systems:
    git clone https://github.com/ShadowScripts1/TG-notpixel.git
    ```
 
-3. Enter the NotPixL folder
+3. Enter the TG-notpixel folder
    ```shell
-   cd NotPixL
+   cd TG-notpixel
    ```
 
 4. Create and activate virtual environment
@@ -209,9 +209,9 @@ Here's how to use it on different operating systems:
    git clone https://github.com/ShadowScripts1/TG-notpixel.git
    ```
 
-3. Enter the NotPixL folder
+3. Enter the TG-notpixel folder
    ```shell
-   cd NotPixL
+   cd TG-notpixel
    ```
 
 4. Install required libraries

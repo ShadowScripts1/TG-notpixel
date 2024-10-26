@@ -1,0 +1,14 @@
+{
+    "api_id": 26727870,
+    "api_hash": "eeaf01127c8b86a5161fb24c53f981a3",
+    "referral_code": "f629438076",
+    "colors": [
+        "#BE0039"
+    ],
+    "auto_upgrade": false,
+    "countdown": 3600,
+    "time_before_start": [
+        30,
+        60
+    ]
+}
